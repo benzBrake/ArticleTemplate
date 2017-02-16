@@ -12,6 +12,8 @@ or
 ```
 <?php $template = $this->template ?>
 ```
+if post type was `standard`, it would output an empty string.
+
 PS:`$this` is a Widget_Archive object
 ## License
 Copyright © 2016 [benzBrake](http://blog.iplayloli.com).
