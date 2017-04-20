@@ -127,7 +127,7 @@ class ArticleTemplate_Plugin implements Typecho_Plugin_Interface {
 	*/
 	public static function personalConfig(Typecho_Widget_Helper_Form $form){}
 	/**
-	 * 发布文章同时更新URL
+	 * 发布文章同时更新文章类型
 	 *
 	 * @access public
 	 * @return void
