@@ -1,6 +1,7 @@
 # ArticleTemplate
-Custom post type for Typecho
-Version V2 is more powerful, but is a payed plugin.
+Custom post type for Typecho.
+
+Version V2 is more powerful, but is a paid plugin.
 
 ## Usage
 Download release and upload to /usr/plugins, be sure folder is `ArticleTemplate`
